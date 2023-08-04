@@ -1,0 +1,41 @@
+body {
+
+  background-image: url("https://cdna.artstation.com/p/assets/images/images/056/271/808/large/favorisxp-foiwnmlxway769s.jpg?1668845562");
+
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+img{
+    width: 1000px;
+    height: 1000px;
+}
+
+h1{
+    color: #8fbc8f;
+    text-shadow: 0 0  10px black,0 0 5px;
+}
+h2{
+    color: #8fbc8f;
+    text-shadow: 0 0  10px black, 0 0 5px;
+}
+
+p{
+    color: floralwhite;
+}
+
+.container {
+    background-color: dimgrey;
+    max-width: 490px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.profile {
+    align-items: center;
+    margin-bottom: 125px;
+}
+
+.bio p {
+    line-height: 1.6;
+}
